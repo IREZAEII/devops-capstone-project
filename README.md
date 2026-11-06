@@ -1,4 +1,5 @@
-# DevOps Capstone Template
+# devops-capstone-project
+A DevOps capstone project to develop a customer accounts microservice with REST APIs for creating, reading, updating, deleting, and listing customer accounts.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
