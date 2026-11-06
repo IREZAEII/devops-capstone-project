@@ -1,4 +1,5 @@
 # devops-capstone-project
+[![Build Status](https://github.com/IREZAEII/devops-capstone-project/actions/workflows/build.yml/badge.svg)](https://github.com/IREZAEII/devops-capstone-project/actions/workflows/build.yml)
 A DevOps capstone project to develop a customer accounts microservice with REST APIs for creating, reading, updating, deleting, and listing customer accounts.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
